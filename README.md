@@ -1,6 +1,6 @@
 Privacy Policy
 Effective date: November 3, 2026
-App name: ri0O_aSis Operator: BRONYARUN LLC, 8504 Waukegan Road, Morton Grove, IL 60053, USA Contact: goncharionokaleksey@gmail.com
+App name: ri0O_aSis Operator: BRONYARUN LLC, 2201 Sole Mia Square Ln, Apt 404, North Miami, FL 33181, USA (registered address); mailing address: 8504 Waukegan Rd, Apt 14, Morton Grove, IL 60053, USA Contact: goncharionokaleksey@gmail.com
 1. What this app does
 ri0O_aSis is an internal automation tool that helps the operator publish content to Instagram and Threads, read and reply to comments, and respond to direct messages on accounts owned or managed by the operator. The app uses the official Meta Instagram API and Threads API.
 2. Data we collect
@@ -39,4 +39,4 @@ The app is not directed at persons under 18 and does not knowingly collect their
 10. Changes
 We may update this policy. The current version is always available at https://bronyarun.github.io/Privacy-Policy/.
 11. Contact
-BRONYARUN LLC, 8504 Waukegan Road, Morton Grove, IL 60053, USA, goncharionokaleksey@gmail.com
+BRONYARUN LLC, 2201 Sole Mia Square Ln, Apt 404, North Miami, FL 33181, USA (registered address); mailing address: 8504 Waukegan Rd, Apt 14, Morton Grove, IL 60053, USA, goncharionokaleksey@gmail.com
