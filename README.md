@@ -22,21 +22,21 @@ Data is stored on servers located in Germany (Hetzner Online GmbH, EU). Access t
 5. Service providers
 • Meta Platforms (Instagram API, Threads API).
 • Hosting: Hetzner Online GmbH (Germany).
-• AI processing for drafting replies: [PROVIDER, if used]. Message text may be sent to this provider to generate a suggested reply; it is not used to train models.
+• AI processing for drafting replies: Anthropic, OpenAI, Google (Gemini), DeepSeek, TypeSafe AI (Jev). Message text may be sent to this provider to generate a suggested reply; it is not used to train models.
 6. Data retention
-• Comments and messages: retained for up to [N] months, then deleted.
+• Comments and messages: retained for up to 12 months, then deleted.
 • Published media metadata: retained while the account remains connected.
 • Access tokens: deleted immediately when the account is disconnected.
 7. Data deletion
 You may request deletion of your data at any time:
 1. Email goncharionokaleksey@gmail.com with the subject "Data deletion request".
 2. Or remove the app from your Instagram or Facebook settings under Apps and Websites; Meta will send us a deletion request and we will delete all associated data within 30 days.
-Data deletion instructions URL: [URL]
+Data deletion instructions URL: https://bronyarun.github.io/Privacy-Policy/#7-data-deletion
 8. Your rights
 Under GDPR and applicable laws you may request access, correction, deletion, or export of your personal data, and object to processing. Contact goncharionokaleksey@gmail.com.
 9. Children
 The app is not directed at persons under 18 and does not knowingly collect their data.
 10. Changes
-We may update this policy. The current version is always available at [URL].
+We may update this policy. The current version is always available at https://bronyarun.github.io/Privacy-Policy/.
 11. Contact
 BRONYARUN LLC, 8504 Waukegan Road, Morton Grove, IL 60053, USA, goncharionokaleksey@gmail.com
